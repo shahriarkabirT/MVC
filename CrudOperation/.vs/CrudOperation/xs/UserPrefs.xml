@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{C2A07466-2395-4390-92A5-2324789240E3}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CrudOperation PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="Controllers/HomeController.cs" Line="33" Column="13" />
+      <File FileName="Data/MVCDemoDbContext.cs" />
+      <File FileName="appsettings.Development.json" />
+      <File FileName="Models/ErrorViewModel.cs" />
+      <File FileName="Views/Home/Privacy.cshtml" />
+      <File FileName="Views/Home/Index.cshtml" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Views/_ViewImports.cshtml" />
+      <File FileName="Views/_ViewStart.cshtml" />
+      <File FileName="appsettings.json" />
+      <File FileName="wwwroot/js/site.js" />
+      <File FileName="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" />
+      <File FileName="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" />
+      <File FileName="wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css" />
+      <File FileName="Views/Shared/_Layout.cshtml" />
+      <File FileName="Views/Home/AboutMe.cshtml" />
+      <File FileName="Models/About.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CrudOperation" expanded="True">
+            <Node name="CrudOperation" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

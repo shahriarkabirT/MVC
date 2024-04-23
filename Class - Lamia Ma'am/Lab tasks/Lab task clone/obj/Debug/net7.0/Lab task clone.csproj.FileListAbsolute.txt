@@ -1,0 +1,31 @@
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/bin/Debug/net7.0/appsettings.Development.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/bin/Debug/net7.0/appsettings.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/bin/Debug/net7.0/Lab task clone.staticwebassets.runtime.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/bin/Debug/net7.0/Lab task clone
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/bin/Debug/net7.0/Lab task clone.deps.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/bin/Debug/net7.0/Lab task clone.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/bin/Debug/net7.0/Lab task clone.dll
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/bin/Debug/net7.0/Lab task clone.pdb
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/Lab task clone.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/Lab task clone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/Lab task clone.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/Lab task clone.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/Lab task clone.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/Lab task clone.MvcApplicationPartsAssemblyInfo.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/Lab task clone.RazorAssemblyInfo.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/Lab task clone.RazorAssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/staticwebassets/msbuild.Lab task clone.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/staticwebassets/msbuild.build.Lab task clone.props
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Lab task clone.props
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Lab task clone.props
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/staticwebassets.build.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/staticwebassets.development.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/scopedcss/bundle/Lab task clone.styles.css
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/scopedcss/projectbundle/Lab task clone.bundle.scp.css
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/Lab task clone.dll
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/refint/Lab task clone.dll
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/Lab task clone.pdb
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/Lab task clone.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/Debug/net7.0/ref/Lab task clone.dll

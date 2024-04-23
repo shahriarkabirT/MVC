@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var msg = "Welcome";
+    var greetings = "Hope you are doing well";
+    var weekDay = DateTime.Now.DayOfWeek;
+    var hour = DateTime.Now.Hour;
+    var wish = "null";
+    if(hour>12)
+    {
+        wish = "Good Evening";
+    }
+    else
+    {
+        wish = "Good Morning";
+    }
+}
+<div class="text-center">
+    <h1 class="display-4">@msg</h1>
+    <p>@greetings</p>
+    <p>Here in Dhaka today is @weekDay</p>
+    <p>Time: @DateTime.Now.Hour : @DateTime.Now.Minute : @DateTime.Now.Second</p>
+    <p>@wish</p>
+</div>
+@for(int i = 1;i<10;i++)
+ {
+     <div>@i</div>
+ }
+<form method="post">
+    <fieldset>
+        <legend>Add Customer</legend>
+        <div>
+            <label for="CompanyName">Company Name:</label>
+            <input type="text" name="CompanyName" value="" />
+        </div>
+        <div>
+            <label for="ContactName">Contact Name:</label>
+            <input type="text" name="ContactName" value="" />
+        </div>
+        <div>
+            <label for="Employees">Employee Count:</label>
+            <input type="text" name="Employees" value="" />
+        </div>
+        <div>
+            <label>&nbsp;</label>
+            <input type="submit" value="Submit" class="submit" />
+        </div>
+    </fieldset>
+</form>

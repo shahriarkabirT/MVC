@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+    @{
+        void RenderName(string name)
+        {
+            <p>Name: <strong>@name</strong></p>
+        }
+
+        RenderName("Shahriar");
+        RenderName("Martin Luther King, Jr.");
+    }
+
+}
+
+<div class="text-center">
+    <h1 class="display-4">@name</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+

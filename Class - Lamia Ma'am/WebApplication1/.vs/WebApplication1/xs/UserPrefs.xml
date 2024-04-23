@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{140A2D27-24B5-45A7-B1F2-5708209FBC7E}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WebApplication1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication1/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="WebApplication1/Controllers/HomeController.cs" Line="35" Column="22" />
+      <File FileName="WebApplication1/Views/Home/Contact.cshtml" />
+      <File FileName="WebApplication1/Views/Home/Index.cshtml" />
+      <File FileName="WebApplication1/Views/Home/Privacy.cshtml" />
+      <File FileName="WebApplication1/Views/_ViewImports.cshtml" />
+      <File FileName="WebApplication1/Views/_ViewStart.cshtml" />
+      <File FileName="WebApplication1/Views/Shared/_Layout.cshtml" />
+      <File FileName="WebApplication1/Models/Student.cs" Line="9" Column="1" />
+      <File FileName="WebApplication1/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplication1" expanded="True">
+            <Node name="WebApplication1" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

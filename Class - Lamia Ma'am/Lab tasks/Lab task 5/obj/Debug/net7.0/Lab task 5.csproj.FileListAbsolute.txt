@@ -1,0 +1,31 @@
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/bin/Debug/net7.0/appsettings.Development.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/bin/Debug/net7.0/appsettings.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/bin/Debug/net7.0/Lab task 5.staticwebassets.runtime.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/bin/Debug/net7.0/Lab task 5
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/bin/Debug/net7.0/Lab task 5.deps.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/bin/Debug/net7.0/Lab task 5.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/bin/Debug/net7.0/Lab task 5.dll
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/bin/Debug/net7.0/Lab task 5.pdb
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/Lab task 5.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/Lab task 5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/Lab task 5.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/Lab task 5.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/Lab task 5.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/Lab task 5.MvcApplicationPartsAssemblyInfo.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/Lab task 5.RazorAssemblyInfo.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/Lab task 5.RazorAssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/staticwebassets/msbuild.Lab task 5.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/staticwebassets/msbuild.build.Lab task 5.props
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Lab task 5.props
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Lab task 5.props
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/staticwebassets.build.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/staticwebassets.development.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/scopedcss/bundle/Lab task 5.styles.css
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/scopedcss/projectbundle/Lab task 5.bundle.scp.css
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/Lab task 5.dll
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/refint/Lab task 5.dll
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/Lab task 5.pdb
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/Lab task 5.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task 5/obj/Debug/net7.0/ref/Lab task 5.dll

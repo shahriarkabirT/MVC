@@ -1,0 +1,13 @@
+﻿@model MvcMovie.Models.LoginViewModel
+<h2>Login</h2>
+@using (Html.BeginForm("Login", "Home", FormMethod.Post))
+{
+    @Html.LabelFor(m => m.Username)<br />
+    @Html.TextBoxFor(m => m.Username)
+        <br /><br />
+    @Html.LabelFor(m => m.Password)<br />
+    @Html.PasswordFor(m => m.Password)
+        <br /><br />
+    <input type="submit" value="Login" />
+    <p class="error-message">@ViewBag.ErrorMessage</p>
+}

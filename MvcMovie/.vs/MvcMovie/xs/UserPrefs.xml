@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{AB258A68-8A40-4C07-8BBE-0E4CB6952B48}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/shahriarkabir/1.Development files/c_sharp/MVC/MvcMovie/Views/Home/AnotherPage.cshtml" relfile="Views/Home/AnotherPage.cshtml" line="4" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MvcMovie PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Views/Customers/TicketDetails.cshtml" />
+      <File FileName="Views/Movies/Index.cshtml" />
+      <File FileName="Models/Customer.cs" />
+      <File FileName="Views/Customers/Index.cshtml" />
+      <File FileName="Controllers/HelloWorldController.cs" />
+      <File FileName="Controllers/CustomersController.cs" />
+      <File FileName="Controllers/MoviesController.cs" />
+      <File FileName="Models/Movie.cs" />
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Views/Customers/Buy.cshtml" />
+      <File FileName="Views/Home/Index.cshtml" />
+      <File FileName="Views/Shared/_Layout.cshtml" />
+      <File FileName="Views/Movies/Create.cshtml" />
+      <File FileName="Views/HelloWorld/Index.cshtml" />
+      <File FileName="Views/Customers/Create.cshtml" />
+      <File FileName="Views/Home/Privacy.cshtml" />
+      <File FileName="Views/Home/login.cshtml" />
+      <File FileName="Views/Customers/Details.cshtml" />
+      <File FileName="Views/Home/AnotherPage.cshtml" />
+      <File FileName="Models/LoginViewModel.cs" />
+      <File FileName="Models/ErrorViewModel.cs" />
+      <File FileName="wwwroot/css/site.css" />
+      <File FileName="Views/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="Views/Shared/Error.cshtml" />
+      <File FileName="Program.cs" />
+      <File FileName="Models/MovieGenreViewModel.cs" />
+      <File FileName="Models/CustomerGenreViewModel.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MvcMovie" expanded="True">
+            <Node name="MvcMovie" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Customers" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

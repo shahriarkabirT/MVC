@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/Lab task clone.csproj": {}
+  },
+  "projects": {
+    "/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/Lab task clone.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/Lab task clone.csproj",
+        "projectName": "Lab task clone",
+        "projectPath": "/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/Lab task clone.csproj",
+        "packagesPath": "/Users/shahriarkabir/.nuget/packages/",
+        "outputPath": "/Users/shahriarkabir/Development files/c_sharp/MVC/Class - Lamia Ma'am/Lab tasks/Lab task clone/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shahriarkabir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

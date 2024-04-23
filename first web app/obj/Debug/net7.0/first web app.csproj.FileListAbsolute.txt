@@ -1,0 +1,31 @@
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/first web app.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/first web app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/first web app.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/first web app.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/first web app.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/first web app.MvcApplicationPartsAssemblyInfo.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/first web app.RazorAssemblyInfo.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/first web app.RazorAssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/bin/Debug/net7.0/appsettings.Development.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/bin/Debug/net7.0/appsettings.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/bin/Debug/net7.0/first web app.staticwebassets.runtime.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/bin/Debug/net7.0/first web app
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/bin/Debug/net7.0/first web app.deps.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/bin/Debug/net7.0/first web app.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/bin/Debug/net7.0/first web app.dll
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/bin/Debug/net7.0/first web app.pdb
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/staticwebassets/msbuild.first web app.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/staticwebassets/msbuild.build.first web app.props
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.first web app.props
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.first web app.props
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/staticwebassets.build.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/staticwebassets.development.json
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/scopedcss/bundle/first web app.styles.css
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/scopedcss/projectbundle/first web app.bundle.scp.css
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/first web app.dll
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/refint/first web app.dll
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/first web app.pdb
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/first web app.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/MVC/first web app/obj/Debug/net7.0/ref/first web app.dll
